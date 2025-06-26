@@ -57,55 +57,50 @@ To deliver an end-to-end Power BI report that:
 - **Clustered Column Chart** – BPM frequency distribution
 
 ### 2️⃣ Platform Comparison
-- **Stacked Column** – Top 10 songs’ presence across Spotify, Apple, Deezer
-- **Funnel Chart** – Drop-off of songs from one to multiple platforms
-- **Donut Chart** – Platform-wise song count
-- **Clustered Bar Chart** – Playlist appearance count vs stream count
+- **Stacked Column Chart** – Top 10 songs’ presence across Spotify, Apple, Deezer
+- **Stacked Column Chart** – Song count by number of platform appearances
+- **Clustered Column Chart** – Playlist appearance count vs stream count
 - **Cards** – Songs per platform (Spotify, Apple, Deezer, Shazam)
 
 ### 3️⃣ Artist Impact
-- **Waterfall Chart** – Contribution of Top Artists to total streams
-- **Bar Chart** – Artists with highest playlist appearances
-- **Matrix Table** – Artists vs Platform presence
-- **Donut Chart** – Artist release count
-- **Card** – Most Featured Artist
+- **Clustered Column Chart** – Contribution of Top Artists to total streams
+- **Donut Chart** – Song count by number of artists
+- **Scatter Chart** – Streams vs artist collaboration count
+- **Clustered Column Chart** – Artist-wise average Spotify popularity
 
 ### 4️⃣ Temporal Trends
-- **Line Chart** – Streams over `released_year`
-- **Clustered Column** – Monthly song release frequency
-- **Bar Chart** – Day-of-week release distribution
-- **Area Chart** – Avg BPM and energy trends over time
-- **Donut Chart** – Release share by season
+- **Area Chart** – Streaming trend over the years
+- **Stacked Column Chart** – Mode distribution across decades
+- **Line Chart** – Tempo trend by release year
+- **Clustered Column Chart** – Song release count by month
+- **Line Chart** – Acousticness trend over time
 
 ### 5️⃣ Cross-Platform Presence
-- **100% Stacked Column** – Playlist share per song across platforms
-- **Treemap** – Song presence volume by platform
-- **Funnel Chart** – Reach from 1 to all 3 platforms
-- **Card** – Total playlist appearances
-- **Clustered Column** – Playlist count vs streams
+- **Stacked Bar Chart** – Playlist presence of top songs across platforms
+- **Column Chart** – Song count by number of platforms featured
+- **Line Chart** – Playlist additions trend over the years
+- **Donut Chart** – Share of songs across playlists by platform
 
 ### 6️⃣ Most Streamed Songs
-- **Donut Chart** – Top 10 songs by total streams
+- **Funnel Chart** – Top 10 most streamed songs
 - **Cards** – 
   - Most Streamed Song (name)
   - Max Stream Count
   - Playlist Leader
-- **Bar Chart** – Top Artists by total streams
-- **Treemap** – Stream share by song
+- **Scatter Chart** – Streams vs song tempo (BPM)
+- **Column Chart** – Average streams by valence%
+- **Pie Chart** – Stream by release month
 
 ---
 
 ## 📊 Sample KPIs (Card Visuals)
-- 🎶 Total Streams: 1.2B+
-- 🏆 Most Streamed Song: “Track XYZ”
-- 🧠 Top Artist: “Artist ABC”
-- 🔀 Avg Danceability: 72%
-- 🎛️ Avg Energy: 68%
-- 📡 Total Playlist Appearances: 15,000+
+- 🎶 Total Streams: 300B+
+- 🏆 Most Streamed Song: “ZOOM”
+- 🧠 Top Artist: “Taylor Swift”
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Demo
 
 > Add `.png` exports of each section here or link to external images/GIF demos.
 
@@ -124,8 +119,8 @@ To deliver an end-to-end Power BI report that:
 
 Feel free to reach out for collaboration or feedback:  
 **Name**: Tanishi Rai  
-**Email**: yourname@yourdomain.com  
-**LinkedIn**: [linkedin.com/in/tanishirai](https://linkedin.com/in/tanishirai)  
+**Email**: tanishirai2604@gmail.com  
+**LinkedIn**: [linkedin.com/in/tanishirai](https://www.linkedin.com/in/tanishi-rai-38974b282/)  
 **GitHub**: [github.com/tanishirai](https://github.com/tanishirai)
 
 ---
