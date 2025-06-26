@@ -1,4 +1,4 @@
-# 🎧 Spotify 2023 Insights Dashboard
+![Screenshot 2025-06-26 170736](https://github.com/user-attachments/assets/98b4079e-037f-4dbd-b864-f5ca79da30f5)![Screenshot 2025-06-26 170736](https://github.com/user-attachments/assets/98b4079e-037f-4dbd-b864-f5ca79da30f5)# 🎧 Spotify 2023 Insights Dashboard
 
 An interactive Power BI dashboard that explores the top musical trends, artist performance, audio features, and platform-level presence of the most popular tracks from Spotify in 2023.
 
@@ -101,8 +101,7 @@ To deliver an end-to-end Power BI report that:
 ---
 
 ## 🖼️ Demo
-
-> Add `.png` exports of each section here or link to external images/GIF demos.
+[Download Screen Recording](<./Spotify2023 Analysis.mp4>)
 
 ---
 
